@@ -17,10 +17,10 @@
 - 📄 Know about my experiences (coming soon...)
 
 ## Languages and Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/JS.png" alt="javascript" width="5%" height="5%"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="4%" height="5%"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/css.png" alt="css3" width="4%" height="5%"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="5%" height="5%"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/JS.png" alt="javascript" width="5%" height="5%"/> </a> 
 <a href="https://ruby-doc.org/" target="_blank"> <img src="./assets/ruby.png" alt="ruby" width="5%" height="5%"/> </a>
 
 <details>	
@@ -34,7 +34,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/JS.png" alt="javascript" width="5%" height="5%"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/css.png" alt="css3" width="4%" height="5%"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="5%" height="5%"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="4%" height="5%"/> </a>
 </details>
   
 <details>	
@@ -62,8 +62,8 @@
 
 <p align="center">
 <a href="https://github.com/SamanAtashi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamanAtashi&show_icons=true&count_private=true&title_color=f8823a&text_color=f1ead7&icon_color=f8823a&bg_color=163d45&hide=bg-color&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamanAtashi&layout=compact&langs_count=8&show_icons=true&count_private=true&title_color=f8823a&text_color=f1ead7&icon_color=f8823a&bg_color=163d45&hide=bg-color&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=SamanAtashi&show_icons=true&count_private=true&title_color=f8823a&text_color=f1ead7&icon_color=f8823a&bg_color=163d45&hide=bg-color&hide_border=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SamanAtashi&layout=compact&langs_count=8&show_icons=true&count_private=true&title_color=f8823a&text_color=f1ead7&icon_color=f8823a&bg_color=163d45&hide=bg-color&hide_border=true"/>
 </a>
 </p>
 
