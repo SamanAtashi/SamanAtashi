@@ -4,11 +4,11 @@
 
 <h3 align="center">A passionate software/web developer</h3>
 
-- 🔭 I’m currently working on **Tic_Tac_Toe Project**
+- 🔭 I’m currently working on **AwesomeBook (JS) Project**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **CSS and/or Ruby Projects**
+- 👯 I’m looking to collaborate on **CSS / Ruby and/or JS Projects**
 
 - 👨‍💻 All of my projects are available at (coming soon...)
 
