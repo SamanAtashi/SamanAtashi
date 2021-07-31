@@ -1,20 +1,20 @@
-<img alt="Night Coding" src="./assets/banner.svg" width='100%' align="center"/>
+<img alt="Night Coding" src="./assets/banner_july_update.svg" width='100%' align="center"/>
 
 <h1 align="center">Hey there 👋, I'm Saman</h1>
 
-<h3 align="center">A passionate software/web developer</h3>
+<h3 align="center">A passionate <i>Full-Stack developer<i/></h3>
 
-- 🔭 I’m currently working on **AwesomeBook (JS) Project**
+- 🔭 I’m currently Learning javascript APIs
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **CSS / Ruby and/or JS Projects**
+- 👯 I’m looking to collaborate on **CSS / Ruby and JS Projects**
 
-- 👨‍💻 All of my projects are available at (coming soon...)
+- 👨‍💻 All of my projects are available at (coming soon)
 
 - 📫 How to reach me directly **milady00126@gmail.com**
 
-- 📄 Know about my experiences (coming soon...)
+- 📄 Know about my experiences (coming soon)
 
 ## Languages and Tools
 <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="4%" height="5%"/> </a>
