@@ -4,11 +4,9 @@
 
 <h3 align="center">A passionate <i>Full-Stack developer<i/></h3>
 
-- 🔭 I’m currently Learning javascript APIs
+- 🌱 I’m currently learning **React/Redux**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **CSS / Ruby and JS Projects**
+- 👯 I’m looking to collaborate on **Ruby and JS Projects**
 
 - 👨‍💻 All of my projects are available at (coming soon)
 
