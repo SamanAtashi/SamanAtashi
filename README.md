@@ -19,8 +19,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/JS.png" alt="javascript" width="5%" height="5%"/> </a>
 <a href="https://ruby-doc.org/" target="_blank"> <img src="./assets/ruby.png" alt="ruby" width="5%" height="5%"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="6%" height="5%"/> </a>
-<a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="6%" height="5%"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="8%" height="5%"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="7%" height="5%"/> </a>
 <a href="https://styled-components.com/" target="_blank"> <img src="./assets/styled-components.png" alt="bootstrap" width="6%" height="5%"/> </a>
 
 <details>	
@@ -35,8 +35,8 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./assets/css.png" alt="css3" width="4%" height="5%"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="4%" height="5%"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="6%" height="5%"/> </a> 
-  <a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="6%" height="5%"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="8%" height="5%"/> </a> 
+  <a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="7%" height="5%"/> </a> 
   <a href="https://styled-components.com/" target="_blank"> <img src="./assets/styled-components.png" alt="bootstrap" width="6%" height="5%"/> </a> 
 </details>
   
@@ -53,8 +53,8 @@
 <details>	
   <summary><b>Frameworks & Libraries</b></summary>
   <a href="https://getbootstrap.com" target="_blank"> <img src="./assets/bootstrap.png" alt="bootstrap" width="6%" height="5%"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="6%" height="5%"/> </a> 
-  <a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="6%" height="5%"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="./assets/react.png" alt="bootstrap" width="8%" height="5%"/> </a> 
+  <a href="https://redux.js.org/" target="_blank"> <img src="./assets/Redux.png" alt="bootstrap" width="7%" height="5%"/> </a> 
   <a href="https://styled-components.com/" target="_blank"> <img src="./assets/styled-components.png" alt="bootstrap" width="6%" height="5%"/> </a> 
 </details>
 
