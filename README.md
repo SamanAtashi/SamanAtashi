@@ -8,11 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Ruby and JS Projects**
 
-- 👨‍💻 All of my projects are available at (coming soon)
+- 👨‍💻 All of my projects and experiences are available at my **[Portfolio](https://samanatashi.netlify.app/)**
 
 - 📫 How to reach me directly **milady00126@gmail.com**
-
-- 📄 Know about my experiences (coming soon)
 
 ## Languages and Tools
 <a href="https://www.w3.org/html/" target="_blank"> <img src="./assets/html.png" alt="html5" width="4%" height="5%"/> </a>
